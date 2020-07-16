@@ -1,11 +1,12 @@
 ## Hi there 👋
 
-My name is Luís Ribeiro Santos. I'm a Software Developer with focus on the web platform and cross-platform mobile app development. I work with PHP (Yii, Zend, Codeigniter, Laravel), Ionic and Angular making robust high end web apps, and hybrid mobile apps with native-quality. 
+My name is Luís Ribeiro. I'm a Software Developer with focus on the web platform and cross-platform mobile app development. I work with PHP (Yii, Zend, Codeigniter, Laravel), Ionic and Angular making robust high end web apps, and hybrid mobile apps with native-quality. 
 
 I'm currently working on the Web Team [@e-goi](https://www.e-goi.com) making landing pages great again.
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/_l_ribeiro?label=Follow)](https://twitter.com/_l_ribeiro)
 [![Linkedin: luismribeiro](https://img.shields.io/badge/-Luis%20Ribeiro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luismribeiro/)](https://www.linkedin.com/in/luismribeiro/)
+
 
 ## Current Work
 
