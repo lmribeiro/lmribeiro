@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Luís Ribeiro. I'm a Software Developer with focus on the web platform and cross-platform mobile app development. I work with PHP (Yii, Zend, Codeigniter, Laravel), Ionic and Angular making robust high end web apps, and hybrid mobile apps with native-quality. 
+I'm Luís, a Software Developer with focus on the web platform and cross-platform mobile app development. I work mostly with PHP (Yii, Zend, Codeigniter, Laravel), Ionic and Angular making robust high end web apps, and hybrid mobile apps with native-quality. 
 
 I'm currently working on the Web Team [@e-goi](https://www.e-goi.com) making landing pages great again.
 
@@ -8,7 +8,7 @@ I'm currently working on the Web Team [@e-goi](https://www.e-goi.com) making lan
 [![Linkedin: luismribeiro](https://img.shields.io/badge/-Luis%20Ribeiro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luismribeiro/)](https://www.linkedin.com/in/luismribeiro/)
 
 
-## Current Work
+## Also working on
 
 Currently I spend my spare time working on [curtos.pt](https://curtos.pt) and [curtos-cli](https://www.npmjs.com/package/curtos-cli).
 
