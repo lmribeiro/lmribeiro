@@ -10,6 +10,6 @@ I'm currently working in the Web Team [@e-goi](https://www.e-goi.com) making lan
 
 ## Also working on
 
-Currently I spend my spare time working on [curtos.pt](https://curtos.pt) and [curtos-cli](https://www.npmjs.com/package/curtos-cli).
+I spend my spare time working on [curtos.pt](https://curtos.pt) and [curtos-cli](https://www.npmjs.com/package/curtos-cli).
 
 <img src='https://github.com/lmribeiro/curtos.pt/blob/master/web/img/curtos.gif?raw=true' width="100%" />
