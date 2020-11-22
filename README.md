@@ -2,7 +2,7 @@
 
 I'm Luís, a Software Developer with focus on the web platform and cross-platform mobile app development. I work mostly with PHP (Yii, Zend, Codeigniter, Laravel), Ionic and Angular making robust high end web apps, and hybrid mobile apps with native-quality. 
 
-I'm currently working in the Web Team [@e-goi](https://www.e-goi.com) making landing pages great again.
+I'm currently working in the Web Team [@e-goi](https://www.e-goi.com) making landing pages and web push services.
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/_l_ribeiro?label=Follow)](https://twitter.com/_l_ribeiro)
 [![Linkedin: luismribeiro](https://img.shields.io/badge/-Luis%20Ribeiro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luismribeiro/)](https://www.linkedin.com/in/luismribeiro/)
