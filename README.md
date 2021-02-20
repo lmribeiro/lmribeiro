@@ -7,6 +7,14 @@ I'm currently working in the Web Team [@e-goi](https://www.e-goi.com) making lan
 [![Twitter Follow](https://img.shields.io/twitter/follow/_l_ribeiro?label=Follow)](https://twitter.com/_l_ribeiro)
 [![Linkedin: luismribeiro](https://img.shields.io/badge/-Luis%20Ribeiro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luismribeiro/)](https://www.linkedin.com/in/luismribeiro/)
 
+<div>
+  <div style="with: 50%">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmribeiro" />
+  </div>
+   <div style="with: 50%; ">
+      <img align="right" src="https://github-readme-stats.vercel.app/api?username=lmribeiro" alt="Luis GitHub Stats" />
+   </div
+</div>
 
 ## Also working on
 
