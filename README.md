@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Luís, a Software Developer with focus on the web platform and cross-platform mobile app development. I work mostly with PHP (Yii, Zend, Codeigniter, Laravel), Ionic and Angular making robust high end web apps, and hybrid mobile apps with native-quality. 
+I'm Luís, a Software Engineer with focus on the web platform and cross-platform mobile app development. I work mostly with PHP (Yii, Zend, Codeigniter, Laravel), Ionic and Angular making robust high end web apps, and hybrid mobile apps with native-quality. 
 
 I'm currently working in the Web Team [@e-goi](https://www.e-goi.com) making landing pages and web push services.
 
