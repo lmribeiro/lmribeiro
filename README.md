@@ -8,10 +8,10 @@ I'm currently working in the Web Team [@e-goi](https://www.e-goi.com) making lan
 [![Linkedin: luismribeiro](https://img.shields.io/badge/-Luis%20Ribeiro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luismribeiro/)](https://www.linkedin.com/in/luismribeiro/)
 
 <div>
-  <div style="with: 50%">
+  <div style="width: 50%">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmribeiro" />
   </div>
-   <div style="with: 50%; ">
+   <div style="width: 50%; ">
       <img align="right" src="https://github-readme-stats.vercel.app/api?username=lmribeiro" alt="Luis GitHub Stats" />
    </div
 </div>
